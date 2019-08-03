@@ -1,0 +1,17 @@
+Zapisuje watek 3 
+Zapisuje watek 1 i uzywa ABRAKDABRA
+ ZAPISUJE WATEK 2 
+ Zapisuje watek 4 
+Zapisuje watek 1 i uzywa ABRAKDABRA
+ Zapisuje watek 4 
+ZAPISUJE WATEK 2 
+ Zapisuje watek 3 
+Zapisuje watek 3 
+Zapisuje watek 4 
+Zapisuje watek 1 i uzywa ABRAKDABRA
+ ZAPISUJE WATEK 2 
+ Zapisuje watek 3 
+Zapisuje watek 1 i uzywa ABRAKDABRA
+ Zapisuje watek 4 
+ZAPISUJE WATEK 2 
+ 
